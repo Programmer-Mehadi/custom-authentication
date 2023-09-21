@@ -73,7 +73,7 @@ const GetEmailPage = () => {
                 </button>
               </form>
               <p className="text-center mt-4 text-gray-500 text-sm">
-                <Link href="/" className="hover:underline">
+                <Link href="/login" className="hover:underline">
                   Back to Login
                 </Link>
               </p>
